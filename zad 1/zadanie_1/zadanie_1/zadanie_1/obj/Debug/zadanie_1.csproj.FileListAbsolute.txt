@@ -1,0 +1,11 @@
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\bin\Debug\zadanie_1.exe.config
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\bin\Debug\zadanie_1.exe
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\bin\Debug\zadanie_1.pdb
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.csproj.AssemblyReference.cache
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.Form1.resources
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.Properties.Resources.resources
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.csproj.GenerateResource.cache
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.exe
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.pdb
+C:\Users\11adi\source\repos\zadanie_1\zadanie_1\obj\Debug\zadanie_1.FormLegenda.resources
