@@ -1,0 +1,13 @@
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe.config
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\bin\Debug\zadanie_3.pdb
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Form1.resources
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Form2.resources
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.exe
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.pdb
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Form3.resources
+C:\Users\11adi\source\repos\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Form4.resources
