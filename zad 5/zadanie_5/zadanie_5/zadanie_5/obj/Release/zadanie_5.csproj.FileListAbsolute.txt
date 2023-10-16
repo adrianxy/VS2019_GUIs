@@ -1,0 +1,10 @@
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\bin\Release\zadanie_5.exe.config
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\bin\Release\zadanie_5.exe
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\bin\Release\zadanie_5.pdb
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.csproj.AssemblyReference.cache
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.form1.resources
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.Properties.Resources.resources
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.csproj.GenerateResource.cache
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.csproj.CoreCompileInputs.cache
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.exe
+C:\Users\11adi\source\repos\zadanie_5\zadanie_5\obj\Release\zadanie_5.pdb
